@@ -230,6 +230,7 @@ Additional bonus courses and problem solving exercises.
 * [AI Music, Text to Speech, and Voice to Voice](https://fakeyou.com/)
   
 ### AI Newsletters
+* [AI Weekly](https://aiweekly.co/) — Discover what AI experts are reading and sharing right now.
 * [The Rundown AI](https://www.therundown.ai/)
 * [Mindstream](https://www.mindstream.news/)
 * [AI Breakfast](https://aibreakfast.beehiiv.com/)
